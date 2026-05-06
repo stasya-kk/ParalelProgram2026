@@ -1,0 +1,4 @@
+Matrix size: 500 x 500
+Number of processes: 4
+Time: 0.057896 seconds
+Result checksum: 306179367532.000000
